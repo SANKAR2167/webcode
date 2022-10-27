@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.main1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.res{
+    margin-top: 20px;
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    background-color: rgba(255, 234, 2, 0.852);
+}
